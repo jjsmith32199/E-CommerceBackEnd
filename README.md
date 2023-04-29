@@ -1,4 +1,4 @@
-### E-Commerce Back End 
+# E-Commerce Back End 
 
 ## About this app
 This application uses the node packages dotenv, mysql2 and sequelize to enable the user to 
